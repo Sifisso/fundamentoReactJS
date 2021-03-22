@@ -7,7 +7,7 @@ export default (props)=>{
             <div className="Conteudo">
                 {props.children}
             </div>
-            <div className="Footer">
+            <div className="Rodape">
                 {props.titulo}
             </div>
         </div>
